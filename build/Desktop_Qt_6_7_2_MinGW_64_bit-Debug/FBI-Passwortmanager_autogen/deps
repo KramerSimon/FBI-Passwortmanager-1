@@ -526,6 +526,8 @@ FBI-Passwortmanager_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Users/threk/Documents/FBI-Passwortmanager/CMakeLists.txt \
+	C:/Users/threk/Documents/FBI-Passwortmanager/Item.cpp \
+	C:/Users/threk/Documents/FBI-Passwortmanager/Item.h \
 	C:/Users/threk/Documents/FBI-Passwortmanager/PasswortmanagerGUI.cpp \
 	C:/Users/threk/Documents/FBI-Passwortmanager/PasswortmanagerGUI.h \
 	C:/Users/threk/Documents/FBI-Passwortmanager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \

@@ -41,6 +41,7 @@ endif()
 # _directory_contents at C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/threk/Documents/FBI-Passwortmanager/*.cpp")
 set(OLD_GLOB
+  "C:/Users/threk/Documents/FBI-Passwortmanager/Item.cpp"
   "C:/Users/threk/Documents/FBI-Passwortmanager/PasswortmanagerGUI.cpp"
   "C:/Users/threk/Documents/FBI-Passwortmanager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "C:/Users/threk/Documents/FBI-Passwortmanager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/FBI-Passwortmanager_autogen/EWIEGA46WW/moc_PasswortmanagerGUI.cpp"
@@ -64,6 +65,7 @@ endif()
 # _directory_contents at C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/threk/Documents/FBI-Passwortmanager/*.h")
 set(OLD_GLOB
+  "C:/Users/threk/Documents/FBI-Passwortmanager/Item.h"
   "C:/Users/threk/Documents/FBI-Passwortmanager/PasswortmanagerGUI.h"
   "C:/Users/threk/Documents/FBI-Passwortmanager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/FBI-Passwortmanager_autogen/include/ui_PasswortmanagerGUI.h"
   "C:/Users/threk/Documents/FBI-Passwortmanager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/FBI-Passwortmanager_autogen/moc_predefs.h"
